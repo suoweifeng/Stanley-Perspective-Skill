@@ -11,7 +11,7 @@ Stanley(@Stanleysobest) 的内容创作与表达框架。
 
 安装
 跟你的 Agent 说：
-帮我安装这个skill：https://github.com/你的用户名/stanley-skill
+帮我安装这个skill：https://github.com/suoweifeng/Stanley-Perspective-Skill
 用法
 
 「用Stanley的风格帮我分析这个选题」
